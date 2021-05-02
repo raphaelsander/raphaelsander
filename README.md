@@ -1,16 +1,35 @@
-### Hi there 👋
+## :school: Formação Acadêmica:
+Tecnólogo em Gestão de Telecomunicações no Instituto Nacional de Telecomunicações
 
-<!--
-**raphaelsander/raphaelsander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :tongue: Idiomas
+- Português (Nativo)
+- Inglês (intermediário, escrita e conversação)
 
-Here are some ideas to get you started:
+## :mortar_board: Certificados:
+- Kubernetes: Deployments, Volumes e Escalabilidade (Alura)
+- Jenkins e Docker: Pipeline de Entrega Contínua (Alura)
+- Kubernetes: Pods, Services e ConfigMaps (Alura)
+- Pentest Profissional (Desec)
+- Pentest Profissional (DCPT) (Desec)
+- Introdução à Lei Brasileira de Proteção de Dados Pessoais (Escola Nacional de Administração Pública ENAP)
+- Segurança em Tecnologia da Informação (Fundação Bradesco)
+- Gestão Estratégica de TI - ITIL (Fundação Bradesco)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :books: Conhecimentos:
+- Python
+- C++
+- C (Arduino, ESP8266...)
+- Bash
+- Linux
+- Jenkins
+- Docker
+- Kubernetes
+- Helm
+- Pentest
+- Redes
+
+
+*Keep learning*
+
+
+[LinkedIn](https://www.linkedin.com/in/raphael-sander-96a362a6/)
