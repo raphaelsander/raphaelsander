@@ -15,7 +15,7 @@ Tecnólogo em Gestão de Telecomunicações no Instituto Nacional de Telecomunic
 - Segurança em Tecnologia da Informação (Fundação Bradesco)
 - Gestão Estratégica de TI - ITIL (Fundação Bradesco)
 
-## :books: Conhecimentos:
+## :computer: Conhecimentos:
 - Python
 - C++
 - C (Arduino, ESP8266...)
@@ -27,6 +27,15 @@ Tecnólogo em Gestão de Telecomunicações no Instituto Nacional de Telecomunic
 - Helm
 - Pentest
 - Redes
+
+## :books: Livros:
+- Poder da Execução de Metas
+- O Monge e o Executivo
+- LGPD (FIESP)
+- Os Segredos da Mente Milionária
+- O Poder do Carisma (46%)
+- O Pode do Hábito (31%)
+- O Cérebro com Foco e Disciplina (56%)
 
 
 *Keep learning*
