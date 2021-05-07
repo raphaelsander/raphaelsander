@@ -1,5 +1,5 @@
 ## :school: Formação Acadêmica:
-Tecnólogo em Gestão de Telecomunicações no Instituto Nacional de Telecomunicações
+Tecnólogo em Gestão de Telecomunicações no [Instituto Nacional de Telecomunicações](https://inatel.br/home/)
 
 ## :tongue: Idiomas
 - Português (Nativo)
