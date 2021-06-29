@@ -4,6 +4,12 @@ Tecnólogo em Gestão de Telecomunicações no [Instituto Nacional de Telecomuni
 ## :tongue: Idiomas
 - Português (Nativo)
 - Inglês (intermediário, escrita e conversação)
+- USK Callan - Módulo V
+- Duolingo (Inglês):
+  - 8059 XP
+  - 35 dias de ofensiva
+  - 125 coroas
+  - Divisão Pérola
 
 ## :mortar_board: Certificados:
 - Kubernetes: Deployments, Volumes e Escalabilidade (Alura)
