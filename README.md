@@ -6,10 +6,11 @@ Tecnólogo em Gestão de Telecomunicações no [Instituto Nacional de Telecomuni
 - Inglês (intermediário, escrita e conversação)
 - USK Callan - Módulo V
 - Duolingo (Inglês):
-  - 8059 XP
-  - 35 dias de ofensiva
-  - 125 coroas
-  - Divisão Pérola
+  - 9400 XP
+  - 50 dias de ofensiva
+  - 142 coroas
+  - 732 palavras aprendidas
+  - Divisão Obsidiana
 
 ## :mortar_board: Certificados:
 - Kubernetes: Deployments, Volumes e Escalabilidade (Alura)
