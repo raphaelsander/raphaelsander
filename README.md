@@ -42,7 +42,7 @@ Tecnólogo em Gestão de Telecomunicações no [Instituto Nacional de Telecomuni
 - LGPD (FIESP)
 - Os Segredos da Mente Milionária
 - O Poder do Carisma (46%)
-- O Pode do Hábito (31%)
+- O Poder do Hábito (31%)
 - O Cérebro com Foco e Disciplina (56%)
 
 
