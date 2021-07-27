@@ -17,6 +17,7 @@ Tecnólogo em Gestão de Telecomunicações no [Instituto Nacional de Telecomuni
 - Jenkins e Docker: Pipeline de Entrega Contínua (Alura)
 - Kubernetes: Pods, Services e ConfigMaps (Alura)
 - Python 3 Parte 1: Introdução à Nova Versão da Linguagem (Alura)
+- Fundamentos de Agilidade: seus primeiros passos para a transformação ágil (Alura)
 - Pentest Profissional (Desec)
 - Pentest Profissional (DCPT) (Desec)
 - Introdução à Lei Brasileira de Proteção de Dados Pessoais (Escola Nacional de Administração Pública ENAP)
