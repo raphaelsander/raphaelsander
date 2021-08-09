@@ -45,6 +45,7 @@ Tecnólogo em Gestão de Telecomunicações no [Instituto Nacional de Telecomuni
 - O Poder do Carisma (46%)
 - O Poder do Hábito (31%)
 - O Cérebro com Foco e Disciplina (56%)
+- 14 Hábitos de Desenvolvedores Altamente Produtivos (69%)
 
 
 *Keep learning*
