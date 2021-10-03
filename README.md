@@ -1,10 +1,14 @@
-## :school: Formação Acadêmica:
+# Raphael Sander
+
+## :school: Formação Acadêmica
+
 Tecnólogo em Gestão de Telecomunicações no [Instituto Nacional de Telecomunicações](https://inatel.br/home/)
 
 ## :tongue: Idiomas
+
 - Português (Nativo)
 - Inglês (intermediário, escrita e conversação)
-- USK Callan - Módulo V
+- USK Callan - Módulo V (em andamento)
 - Duolingo (Inglês):
   - 9715 XP
   - 56 dias de ofensiva
@@ -12,7 +16,8 @@ Tecnólogo em Gestão de Telecomunicações no [Instituto Nacional de Telecomuni
   - 766 palavras aprendidas
   - Divisão Obsidiana
 
-## :mortar_board: Certificados:
+## :mortar_board: Certificados
+
 - Kubernetes: Deployments, Volumes e Escalabilidade (Alura)
 - Jenkins e Docker: Pipeline de Entrega Contínua (Alura)
 - Kubernetes: Pods, Services e ConfigMaps (Alura)
@@ -24,7 +29,8 @@ Tecnólogo em Gestão de Telecomunicações no [Instituto Nacional de Telecomuni
 - Segurança em Tecnologia da Informação (Fundação Bradesco)
 - Gestão Estratégica de TI - ITIL (Fundação Bradesco)
 
-## :computer: Conhecimentos:
+## :computer: Conhecimentos
+
 - Python
 - C++
 - C (Arduino, ESP8266...)
@@ -37,18 +43,19 @@ Tecnólogo em Gestão de Telecomunicações no [Instituto Nacional de Telecomuni
 - Pentest
 - Redes
 
-## :books: Livros:
+## :books: Livros
+
 - Poder da Execução de Metas
 - O Monge e o Executivo
 - LGPD (FIESP)
 - Os Segredos da Mente Milionária
+- 14 Hábitos de Desenvolvedores Altamente Produtivos
+- Scrum e Métodos Ágeis (6%)
 - O Poder do Carisma (46%)
+- Python - The Bible (21%)
 - O Poder do Hábito (31%)
-- O Cérebro com Foco e Disciplina (56%)
-- 14 Hábitos de Desenvolvedores Altamente Produtivos (69%)
+- O Cérebro com Foco e Disciplina (85%)
 
-
-*Keep learning*
-
+*Keep learning.*
 
 [LinkedIn](https://www.linkedin.com/in/raphael-sander-96a362a6/)
