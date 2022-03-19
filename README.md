@@ -8,13 +8,8 @@ Tecnólogo em Gestão de Telecomunicações no [Instituto Nacional de Telecomuni
 
 - Português (Nativo)
 - Inglês (intermediário, escrita e conversação)
-- USK Callan - Módulo V (em andamento)
-- Duolingo (Inglês):
-  - 9715 XP
-  - 56 dias de ofensiva
-  - 143 coroas
-  - 766 palavras aprendidas
-  - Divisão Obsidiana
+- USK Callan - Módulo VII (em andamento)
+- [Duolingo (Inglês)](https://www.duolingo.com/profile/RaphaelSander?via=share_profile):
 
 ## :mortar_board: Certificados
 
