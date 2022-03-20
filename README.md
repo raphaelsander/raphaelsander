@@ -9,7 +9,7 @@ Tecnólogo em Gestão de Telecomunicações no [Instituto Nacional de Telecomuni
 - Português (Nativo)
 - Inglês (intermediário, escrita e conversação)
 - USK Callan - Módulo VII (em andamento)
-- [Duolingo (Inglês)](https://www.duolingo.com/profile/RaphaelSander?via=share_profile):
+- [Duolingo (Inglês)](https://www.duolingo.com/profile/RaphaelSander?via=share_profile)
 
 ## :mortar_board: Certificados
 
@@ -28,7 +28,7 @@ Tecnólogo em Gestão de Telecomunicações no [Instituto Nacional de Telecomuni
 
 - Python
 - C++
-- C (Arduino, ESP8266...)
+- C (Arduino, ESP8266, ESP32)
 - Bash
 - Linux
 - Jenkins
@@ -45,10 +45,11 @@ Tecnólogo em Gestão de Telecomunicações no [Instituto Nacional de Telecomuni
 - LGPD (FIESP)
 - Os Segredos da Mente Milionária
 - 14 Hábitos de Desenvolvedores Altamente Produtivos
+- Programação Web com Node.JS (5%)
 - Scrum e Métodos Ágeis (6%)
 - O Poder do Carisma (46%)
 - Python - The Bible (21%)
-- O Poder do Hábito (31%)
+- O Poder do Hábito (58%)
 - O Cérebro com Foco e Disciplina (85%)
 
 *Keep learning.*
