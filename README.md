@@ -8,7 +8,7 @@ Tecnólogo em Gestão de Telecomunicações no [Instituto Nacional de Telecomuni
 
 - Português (Nativo)
 - Inglês (intermediário, escrita e conversação)
-- USK Callan - Módulo VII (em andamento)
+- USK Callan - Módulo IX (em andamento)
 - [Duolingo (Inglês)](https://www.duolingo.com/profile/RaphaelSander?via=share_profile)
 
 ## :mortar_board: Certificados
