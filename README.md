@@ -35,6 +35,7 @@ Tecnólogo em Gestão de Telecomunicações no [Instituto Nacional de Telecomuni
 - Docker
 - Kubernetes
 - Helm
+- Ansible
 - Pentest
 - Redes
 
