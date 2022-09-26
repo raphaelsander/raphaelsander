@@ -36,6 +36,7 @@ Tecnólogo em Gestão de Telecomunicações no [Instituto Nacional de Telecomuni
 - Kubernetes
 - Helm
 - Ansible
+- Vagrant
 - Pentest
 - Redes
 
