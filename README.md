@@ -21,6 +21,7 @@ Tecnólogo em Gestão de Telecomunicações no [Instituto Nacional de Telecomuni
 - Fundamentos de Agilidade: seus primeiros passos para a transformação ágil (Alura)
 - Pentest Profissional (Desec)
 - Pentest Profissional (DCPT) (Desec)
+- Criptografia 0x65 (Desec)
 - Introdução à Lei Brasileira de Proteção de Dados Pessoais (Escola Nacional de Administração Pública ENAP)
 - Segurança em Tecnologia da Informação (Fundação Bradesco)
 - Gestão Estratégica de TI - ITIL (Fundação Bradesco)
