@@ -16,6 +16,7 @@ Tecnólogo em Gestão de Telecomunicações no [Instituto Nacional de Telecomuni
 - Kubernetes: Deployments, Volumes e Escalabilidade (Alura)
 - Jenkins e Docker: Pipeline de Entrega Contínua (Alura)
 - Kubernetes: Pods, Services e ConfigMaps (Alura)
+- Terraform: Automatize a Infraestrutura na Nuvem (Alura)
 - Python 3 Parte 1: Introdução à Nova Versão da Linguagem (Alura)
 - Fundamentos de Agilidade: seus primeiros passos para a transformação ágil (Alura)
 - Pentest Profissional (Desec)
