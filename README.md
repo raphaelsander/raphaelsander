@@ -13,17 +13,28 @@ Tecnólogo em Gestão de Telecomunicações no [Instituto Nacional de Telecomuni
 
 ## :mortar_board: Certificados
 
-- Kubernetes: Deployments, Volumes e Escalabilidade (Alura)
-- Jenkins e Docker: Pipeline de Entrega Contínua (Alura)
-- Kubernetes: Pods, Services e ConfigMaps (Alura)
-- Terraform: Automatize a Infraestrutura na Nuvem (Alura)
-- Python 3 Parte 1: Introdução à Nova Versão da Linguagem (Alura)
-- Fundamentos de Agilidade: seus primeiros passos para a transformação ágil (Alura)
+### Cyber Security
+
 - Pentest Profissional (Desec)
 - Pentest Profissional (DCPT) (Desec)
 - Criptografia 0x65 (Desec)
 - Introdução à Lei Brasileira de Proteção de Dados Pessoais (Escola Nacional de Administração Pública ENAP)
 - Segurança em Tecnologia da Informação (Fundação Bradesco)
+
+### DevOps
+
+- Fundamentos de Agilidade: seus primeiros passos para a transformação ágil (Alura)
+- Kubernetes: Pods, Services e ConfigMaps (Alura)
+- Kubernetes: Deployments, Volumes e Escalabilidade (Alura)
+- Jenkins e Docker: Pipeline de Entrega Contínua (Alura)
+- Terraform: Automatize a Infraestrutura na Nuvem (Alura)
+
+### Dev
+
+- Python 3 Parte 1: Introdução à Nova Versão da Linguagem (Alura)
+
+### TI
+
 - Gestão Estratégica de TI - ITIL (Fundação Bradesco)
 
 ## :computer: Conhecimentos
