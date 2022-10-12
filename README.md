@@ -28,6 +28,7 @@ Tecnólogo em Gestão de Telecomunicações no [Instituto Nacional de Telecomuni
 - Kubernetes: Deployments, Volumes e Escalabilidade (Alura)
 - Jenkins e Docker: Pipeline de Entrega Contínua (Alura)
 - Terraform: Automatize a Infraestrutura na Nuvem (Alura)
+- Ansible: sua infraestrutura como código (Alura)
 
 ### Dev
 
