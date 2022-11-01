@@ -1,19 +1,19 @@
 # Raphael Sander
 
-## :school: Formação Acadêmica
+## 1. :school: Formação Acadêmica
 
 Tecnólogo em Gestão de Telecomunicações no [Instituto Nacional de Telecomunicações](https://inatel.br/home/)
 
-## :tongue: Idiomas
+## 2. :tongue: Idiomas
 
 - Português (Nativo)
 - Inglês (intermediário, escrita e conversação)
 - USK Callan - Módulo IX (em andamento)
 - [Duolingo (Inglês)](https://www.duolingo.com/profile/RaphaelSander?via=share_profile)
 
-## :mortar_board: Certificados
+## 3. :mortar_board: Certificados
 
-### Cyber Security
+### 3.1. Cyber Security
 
 - Pentest Profissional (Desec)
 - Pentest Profissional (DCPT) (Desec)
@@ -21,7 +21,7 @@ Tecnólogo em Gestão de Telecomunicações no [Instituto Nacional de Telecomuni
 - Introdução à Lei Brasileira de Proteção de Dados Pessoais (Escola Nacional de Administração Pública ENAP)
 - Segurança em Tecnologia da Informação (Fundação Bradesco)
 
-### DevOps
+### 3.2. DevOps
 
 - Fundamentos de Agilidade: seus primeiros passos para a transformação ágil (Alura)
 - Kubernetes: Pods, Services e ConfigMaps (Alura)
@@ -31,32 +31,63 @@ Tecnólogo em Gestão de Telecomunicações no [Instituto Nacional de Telecomuni
 - Ansible: sua infraestrutura como código (Alura)
 - Infraestrutura como código: preparando máquinas na AWS com Ansible e Terraform
 
-### Dev
+### 3.3. Dev
 
 - Python 3 Parte 1: Introdução à Nova Versão da Linguagem (Alura)
 
-### TI
+### 3.4. TI
 
 - Gestão Estratégica de TI - ITIL (Fundação Bradesco)
 
-## :computer: Conhecimentos
+## 4. :computer: Conhecimentos
 
-- Python
-- C++
-- C (Arduino, ESP8266, ESP32)
-- Bash
-- Linux
+Os "conhecimentos" são áreas que atuei em minha carreira sem ter de fato um curso ou certificado oficial.
+Foi aprendizado sob demanda.
+
+### 4.1. DevOps
+
 - Jenkins
 - Docker
+- Docker Compose
 - Kubernetes
 - Helm
 - Ansible
 - Vagrant
 - Terraform
-- Pentest
-- Redes
 
-## :books: Livros
+### 4.2. TI
+
+- Redes
+- Linux
+
+### 4.3. Virtualização
+
+- Proxmox (KVM)
+- VMWare
+- VirtualBox
+
+### 4.4. Telecom
+
+- Open5GS
+- Adva Disagregate Router OS
+- Amarisoft Simbox E
+- Sunwave 5G Solution
+- Parallel Wireless 4G Solution
+- Wireshark (protocolos 5G e 4G)
+
+### 4.5. Dev
+
+- Python
+- Git (BitBucket, GitHub e Gerrit)
+- C++
+- C (Arduino, ESP8266, ESP32)
+- Bash
+
+### 4.6. Cyber Security
+
+- Pentest
+
+## 5. :books: Livros
 
 - Poder da Execução de Metas
 - O Monge e o Executivo
