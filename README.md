@@ -29,6 +29,7 @@ Tecnólogo em Gestão de Telecomunicações no [Instituto Nacional de Telecomuni
 - Jenkins e Docker: Pipeline de Entrega Contínua (Alura)
 - Terraform: Automatize a Infraestrutura na Nuvem (Alura)
 - Ansible: sua infraestrutura como código (Alura)
+- Infraestrutura como código: preparando máquinas na AWS com Ansible e Terraform
 
 ### Dev
 
