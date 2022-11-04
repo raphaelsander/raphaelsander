@@ -54,6 +54,7 @@ Foi aprendizado sob demanda.
 - Ansible
 - Vagrant
 - Terraform
+- AWS (EC2)
 
 ### 4.2. TI
 
