@@ -95,12 +95,12 @@ Foi aprendizado sob demanda.
 - LGPD (FIESP)
 - Os Segredos da Mente Milionária
 - 14 Hábitos de Desenvolvedores Altamente Produtivos
+- O Cérebro com Foco e Disciplina
 - Programação Web com Node.JS (5%)
 - Scrum e Métodos Ágeis (6%)
 - O Poder do Carisma (46%)
 - Python - The Bible (21%)
 - O Poder do Hábito (76%)
-- O Cérebro com Foco e Disciplina (85%)
 
 *Keep learning.*
 
