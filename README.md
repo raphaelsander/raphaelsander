@@ -82,7 +82,7 @@ Foi aprendizado sob demanda.
 - Git (BitBucket, GitHub e Gerrit)
 - C++
 - C (Arduino, ESP8266, ESP32)
-- Bash
+- Bash Script
 
 ### 4.6. Cyber Security
 
