@@ -18,7 +18,8 @@ Tecnólogo em Gestão de Telecomunicações no [Instituto Nacional de Telecomuni
 - Pentest Profissional (Desec)
 - Pentest Profissional (DCPT) (Desec)
 - Criptografia 0x65 (Desec)
-- Introdução à Lei Brasileira de Proteção de Dados Pessoais (Escola Nacional de Administração Pública ENAP)
+- Introdução à Lei Brasileira de Proteção de Dados Pessoais (Escola Nacional de
+Administração Pública ENAP)
 - Segurança em Tecnologia da Informação (Fundação Bradesco)
 
 ### 3.2. DevOps
@@ -41,7 +42,8 @@ Tecnólogo em Gestão de Telecomunicações no [Instituto Nacional de Telecomuni
 
 ## 4. :computer: Conhecimentos
 
-Os "conhecimentos" são áreas que atuei em minha carreira sem ter de fato um curso ou certificado oficial.
+Os "conhecimentos" são áreas que atuei em minha carreira sem ter de fato um
+curso ou certificado oficial.
 Foi aprendizado sob demanda.
 
 ### 4.1. DevOps
@@ -107,21 +109,33 @@ Foi aprendizado sob demanda.
 
 ## 6. :ticket: Eventos
 
-![CPBR 10](imgs/cpbr10.png)
-![CPBR 9](imgs/cpbr16.png)
-![Crowd Vale da Eletrônica](imgs/crowd.png)
-![XIII EmprendeSUR](imgs/emprendesur.png)
-![XVIII Exposec](imgs/exposec.png)
-![36ª Fetin](imgs/fetin.png)
-![37ª Fetin](imgs/fetin37.png)
-![Fivel 2019](imgs/fivel2019.png)
-![Flisol](imgs/flisol.png)
-![Futerecom 2022](imgs/futurecom2022.png)
-![Hacktown 2018](imgs/hacktown2018.png)
-![Roadsec 2022](imgs/roadsec2022.png)
-![Roadsec 5 Anos](imgs/roadsec5.png)
-![Roadsec Campinas](imgs/roadsec_01.png)
-![Roadsec São Paulo](imgs/roadsec_02.png)
+<table>
+    <tr>
+        <td><img src="imgs/cpbr_10.png" alt="CPBR 10"></br></td>
+        <td><img src="imgs/cpbr_9.png" alt="CPBR 9"></td>
+        <td><img src="imgs/crowd.png" alt="Crowd Vale da Eletrônica"></td>
+    </tr>
+    <tr>
+        <td><img src="imgs/emprendesur.png" alt="XIII EmprendeSUR"></td>
+        <td><img src="imgs/exposec.png" alt="XVIII Exposec"></td>
+        <td><img src="imgs/fetin_36.png" alt="36ª Fetin"></td>
+    </tr>
+    <tr>
+        <td><img src="imgs/fetin_37.png" alt="37ª Fetin"></td>
+        <td><img src="imgs/fivel_2019.png" alt="Fivel 2019"></td>
+        <td><img src="imgs/flisol.png" alt="Flisol"></td>
+    </tr>
+    <tr>
+        <td><img src="imgs/futurecom_2022.png" alt="Futerecom 2022"></td>
+        <td><img src="imgs/hacktown_2018.png" alt="Hacktown 2018"></td>
+        <td><img src="imgs/roadsec_2022.png" alt="Roadsec 2022"></td>
+    </tr>
+    <tr>
+        <td><img src="imgs/roadsec_5.png" alt="Roadsec 5 Anos"></td>
+        <td><img src="imgs/roadsec_01.png" alt="Roadsec Campinas"></td>
+        <td><img src="imgs/roadsec_02.png" alt="Roadsec São Paulo"></td>
+    </tr>
+</table>
 
 *Keep learning.*
 
