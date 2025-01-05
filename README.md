@@ -104,7 +104,7 @@ Foi aprendizado sob demanda.
 - Scrum e Métodos Ágeis (6%)
 - O Poder do Carisma (46%)
 - Python - The Bible (21%)
-- Pai Rico Pai Pobre (38%)
+- Pai Rico, Pai Pobre
 - Mongo DB para Iniciantes (65%)
 
 ## 6. :ticket: Eventos
