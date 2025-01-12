@@ -106,6 +106,7 @@ Foi aprendizado sob demanda.
 - Python - The Bible (21%)
 - Pai Rico, Pai Pobre
 - Mongo DB para Iniciantes (65%)
+- Inteligência Afetiva
 
 ## 6. :ticket: Eventos
 
